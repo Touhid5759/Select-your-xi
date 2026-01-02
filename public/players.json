@@ -1,0 +1,110 @@
+[
+  {
+    "player_img": "https://i.ibb.co.com/twNp146x/vq2v2gfc-erling-haaland-625x300-19-September-25.webp",
+    "player_name": "Erling Haaland",
+    "player_country": "Norway",
+    "flag_img": "https://flagcdn.com/w40/no.png",
+    "player_role": "ST",
+    "price": "£320m",
+    "rating": 9.8
+  },
+  {
+    "player_img": "https://i.ibb.co.com/9kQySqC8/phoden.webp",
+    "player_name": "Phil Foden",
+    "player_country": "England",
+    "flag_img": "https://flagcdn.com/w40/gb.png",
+    "player_role": "LW",
+    "price": "£130m",
+    "rating": 9.4
+  },
+  {
+    "player_img": "https://i.ibb.co.com/XZXp9fg9/Bukayo-Saka.jpg",
+    "player_name": "Bukayo Saka",
+    "player_country": "England",
+    "flag_img": "https://flagcdn.com/w40/gb.png",
+    "player_role": "RW",
+    "price": "£150m",
+    "rating": 9.3
+  },
+  {
+    "player_img": "https://i.ibb.co.com/bGM98KS/rodri.jpg",
+    "player_name": "Rodri",
+    "player_country": "Spain",
+    "flag_img": "https://flagcdn.com/w40/es.png",
+    "player_role": "DMF",
+    "price": "£125m",
+    "rating": 9.2
+  },
+  {
+    "player_img": "https://i.ibb.co.com/NMm22Sj/martin.jpg",
+    "player_name": "Martin Ødegaard",
+    "player_country": "Norway",
+    "flag_img": "https://flagcdn.com/w40/no.png",
+    "player_role": "AMF",
+    "price": "£120m",
+    "rating": 9.1
+  },
+  {
+    "player_img": "https://i.ibb.co.com/PsR4q1bH/rice.jpg",
+    "player_name": "Declan Rice",
+    "player_country": "England",
+    "flag_img": "https://flagcdn.com/w40/gb.png",
+    "player_role": "DMF",
+    "price": "£110m",
+    "rating": 9.0
+  },
+  {
+    "player_img": "https://i.ibb.co.com/bR8sykLK/fbl-eng-pr-arsenal-liverpool.jpg",
+    "player_name": "Alisson Becker",
+    "player_country": "Brazil",
+    "flag_img": "https://flagcdn.com/w40/br.png",
+    "player_role": "GK",
+    "price": "£70m",
+    "rating": 8.9
+  },
+  {
+    "player_img": "https://i.ibb.co.com/WvHTSpcY/bruno-f.jpg",
+    "player_name": "Bruno Fernandes",
+    "player_country": "Portugal",
+    "flag_img": "https://flagcdn.com/w40/pt.png",
+    "player_role": "CMF",
+    "price": "£95m",
+    "rating": 8.8
+  },
+  {
+    "player_img": "https://i.ibb.co.com/fzJ6TF6B/virgil.webp",
+    "player_name": "Virgil van Dijk",
+    "player_country": "Netherlands",
+    "flag_img": "https://flagcdn.com/w40/nl.png",
+    "player_role": "CB",
+    "price": "£90m",
+    "rating": 8.7
+  },
+  {
+    "player_img": "https://i.ibb.co.com/MDpqRYys/moises.webp",
+    "player_name": "Moises Caicedo",
+    "player_country": "Ecuador",
+    "flag_img": "https://flagcdn.com/w40/ec.png",
+    "player_role": "DMF",
+    "price": "£100m",
+    "rating": 8.6
+  },
+  {
+    "player_img": "https://i.ibb.co.com/S73NJkrN/isak.webp",
+    "player_name": "Alexander Isak",
+    "player_country": "Sweden",
+    "flag_img": "https://flagcdn.com/w40/se.png",
+    "player_role": "ST",
+    "price": "£140m",
+    "rating": 8.5
+  },
+  {
+    "player_img": "https://i.ibb.co.com/W47d9XRf/gabriel.jpg",
+    "player_name": "Gabriel Magalhães",
+    "player_country": "Brazil",
+    "flag_img": "https://flagcdn.com/w40/br.png",
+    "player_role": "CB",
+    "price": "£85m",
+    "rating": 8.4
+  }
+]
